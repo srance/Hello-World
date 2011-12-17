@@ -5,5 +5,6 @@ class SmallTree10
   end
 end
 
+puts 'merry xmas!'
 tree = SmallTree10.new
 tree.print
